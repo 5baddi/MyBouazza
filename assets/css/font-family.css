@@ -1,0 +1,43 @@
+/*
+ * @package Font-family css
+ * @subpackage MyBouazza
+ * Developed by @5Baddi | baddi.info
+ */
+
+/** This is font-family **/
+
+/* Cocon */
+@font-face {
+    font-family: 'Cocon';
+    src: url('../fonts/Cocon/Cocon.eot');
+    src: url('../fonts/Cocon/Cocon.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Cocon/Cocon.woff') format('woff'),
+         url('../fonts/Cocon/Cocon.ttf') format('truetype'),
+         url('../fonts/Cocon/Cocon.svg#cocon_next_arabicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/** DroidKufi **/
+@font-face {
+    font-family: 'DroidKufi';
+    src: url('../fonts/DroidKufi/DroidKufi.eot');
+    src: url('../fonts/DroidKufi/DroidKufi.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DroidKufi/DroidKufi.woff') format('woff'),
+         url('../fonts/DroidKufi/DroidKufi.ttf') format('truetype'),
+         url('../fonts/DroidKufi/DroidKufi.svg#DroidKufi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/** SegoeUi **/
+@font-face {
+    font-family: 'segoi UI';
+    src: url('../fonts/segoiUI/segoiUI.eot');
+    src: url('../fonts/SegoeUI/SegoeUI.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SegoeUI/SegoeUI.woff') format('woff'),
+         url('../fonts/SegoeUI/SegoeUI.ttf') format('truetype'),
+         url('../fonts/SegoeUI/SegoeUI.svg#SegoeUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
